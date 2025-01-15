@@ -1,0 +1,14 @@
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\bin\Debug\net8.0\4.Intervalo de Valores.exe
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\bin\Debug\net8.0\4.Intervalo de Valores.deps.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\bin\Debug\net8.0\4.Intervalo de Valores.runtimeconfig.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\bin\Debug\net8.0\4.Intervalo de Valores.dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\bin\Debug\net8.0\4.Intervalo de Valores.pdb
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\4.Intervalo de Valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\4.Intervalo de Valores.AssemblyInfoInputs.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\4.Intervalo de Valores.AssemblyInfo.cs
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\4.Intervalo de Valores.csproj.CoreCompileInputs.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\4.Intervalo de Valores.dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\refint\4.Intervalo de Valores.dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\4.Intervalo de Valores.pdb
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\4.Intervalo de Valores.genruntimeconfig.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\4.Intervalo de Valores\obj\Debug\net8.0\ref\4.Intervalo de Valores.dll
