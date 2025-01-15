@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("4.Intervalo de Valores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64d5529845f3908baf798e5ff0687354009fcc28")]
 [assembly: System.Reflection.AssemblyProductAttribute("4.Intervalo de Valores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("4.Intervalo de Valores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

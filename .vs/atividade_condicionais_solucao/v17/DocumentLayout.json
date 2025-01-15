@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3E430507-46FB-4217-895C-5D7887AFB698}|1.Verifica\u00E7\u00E3o de Paridade\\1.Verifica\u00E7\u00E3o de Paridade.csproj|c:\\users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\1.verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E430507-46FB-4217-895C-5D7887AFB698}|1.Verifica\u00E7\u00E3o de Paridade\\1.Verifica\u00E7\u00E3o de Paridade.csproj|solutionrelative:1.verifica\u00E7\u00E3o de paridade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4A5F858-134A-49E6-A97F-C641332B31A3}|3.Aprova\u00E7\u00E3o de Aluno V2\\3.Aprova\u00E7\u00E3o de Aluno V2.csproj|c:\\users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\3.aprova\u00E7\u00E3o de aluno v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4A5F858-134A-49E6-A97F-C641332B31A3}|3.Aprova\u00E7\u00E3o de Aluno V2\\3.Aprova\u00E7\u00E3o de Aluno V2.csproj|solutionrelative:3.aprova\u00E7\u00E3o de aluno v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\1.Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "RelativeDocumentMoniker": "1.Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "ToolTip": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\1.Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "RelativeToolTip": "1.Verifica\u00E7\u00E3o de Paridade\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\3.Aprova\u00E7\u00E3o de Aluno V2\\Program.cs",
+              "RelativeDocumentMoniker": "3.Aprova\u00E7\u00E3o de Aluno V2\\Program.cs",
+              "ToolTip": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\3.Aprova\u00E7\u00E3o de Aluno V2\\Program.cs",
+              "RelativeToolTip": "3.Aprova\u00E7\u00E3o de Aluno V2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T16:47:32.849Z",
+              "WhenOpened": "2025-01-15T17:38:19.03Z",
               "EditorCaption": ""
             }
           ]
