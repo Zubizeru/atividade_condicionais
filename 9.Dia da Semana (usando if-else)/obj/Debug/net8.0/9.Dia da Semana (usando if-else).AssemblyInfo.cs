@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9.Dia da Semana (usando if-else)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28b9b9fbaccff9233d806ae99909178e403aa707")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bdaa9080b46428441e0db462c71a0855be5b75b")]
 [assembly: System.Reflection.AssemblyProductAttribute("9.Dia da Semana (usando if-else)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9.Dia da Semana (usando if-else)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

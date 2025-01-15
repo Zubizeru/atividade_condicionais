@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{82795ECA-3312-4575-A72D-355ED0636AF1}|9.Dia da Semana (usando switch-case)\\9.Dia da Semana (usando switch-case).csproj|c:\\users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\9.dia da semana (usando switch-case)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82795ECA-3312-4575-A72D-355ED0636AF1}|9.Dia da Semana (usando switch-case)\\9.Dia da Semana (usando switch-case).csproj|solutionrelative:9.dia da semana (usando switch-case)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{240B052A-1921-42F9-90DB-45C805E71617}|9.Dia da Semana (usando if-else)\\9.Dia da Semana (usando if-else).csproj|c:\\users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\9.dia da semana (usando if-else)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{240B052A-1921-42F9-90DB-45C805E71617}|9.Dia da Semana (usando if-else)\\9.Dia da Semana (usando if-else).csproj|solutionrelative:9.dia da semana (usando if-else)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{480125CC-2DF1-4E78-9B30-63A26B027140}|6.Classifica\u00E7\u00E3o de Notas V2\\6.Classifica\u00E7\u00E3o de Notas V2.csproj|c:\\users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\6.classifica\u00E7\u00E3o de notas v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{480125CC-2DF1-4E78-9B30-63A26B027140}|6.Classifica\u00E7\u00E3o de Notas V2\\6.Classifica\u00E7\u00E3o de Notas V2.csproj|solutionrelative:6.classifica\u00E7\u00E3o de notas v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,18 +32,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\9.Dia da Semana (usando switch-case)\\Program.cs",
+              "RelativeDocumentMoniker": "9.Dia da Semana (usando switch-case)\\Program.cs",
+              "ToolTip": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\9.Dia da Semana (usando switch-case)\\Program.cs",
+              "RelativeToolTip": "9.Dia da Semana (usando switch-case)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:22:39.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\9.Dia da Semana (usando if-else)\\Program.cs",
+              "RelativeDocumentMoniker": "9.Dia da Semana (usando if-else)\\Program.cs",
+              "ToolTip": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\9.Dia da Semana (usando if-else)\\Program.cs",
+              "RelativeToolTip": "9.Dia da Semana (usando if-else)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:17:46.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\6.Classifica\u00E7\u00E3o de Notas V2\\Program.cs",
               "RelativeDocumentMoniker": "6.Classifica\u00E7\u00E3o de Notas V2\\Program.cs",
               "ToolTip": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\6.Classifica\u00E7\u00E3o de Notas V2\\Program.cs",
               "RelativeToolTip": "6.Classifica\u00E7\u00E3o de Notas V2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-15T18:41:53.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\5.Verifica\u00E7\u00E3o de idade V2\\Program.cs",
               "RelativeDocumentMoniker": "5.Verifica\u00E7\u00E3o de idade V2\\Program.cs",

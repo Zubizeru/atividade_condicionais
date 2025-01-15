@@ -1,0 +1,15 @@
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\bin\Debug\net8.0\9.Dia da Semana (usando switch-case).exe
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\bin\Debug\net8.0\9.Dia da Semana (usando switch-case).deps.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\bin\Debug\net8.0\9.Dia da Semana (usando switch-case).runtimeconfig.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\bin\Debug\net8.0\9.Dia da Semana (usando switch-case).dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\bin\Debug\net8.0\9.Dia da Semana (usando switch-case).pdb
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).AssemblyInfoInputs.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).AssemblyInfo.cs
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).csproj.CoreCompileInputs.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).sourcelink.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\refint\9.Dia da Semana (usando switch-case).dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).pdb
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\9.Dia da Semana (usando switch-case).genruntimeconfig.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\9.Dia da Semana (usando switch-case)\obj\Debug\net8.0\ref\9.Dia da Semana (usando switch-case).dll

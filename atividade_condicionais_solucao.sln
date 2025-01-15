@@ -31,11 +31,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Número Positivo ou Negat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Aprovação de Aluno V2", "3.Aprovação de Aluno V2\3.Aprovação de Aluno V2.csproj", "{C4A5F858-134A-49E6-A97F-C641332B31A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Intervalo de Valores V2", "4.Intervalo de Valores V2\4.Intervalo de Valores V2.csproj", "{3CE793EB-F641-4047-96A7-84F201575D4F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.Intervalo de Valores V2", "4.Intervalo de Valores V2\4.Intervalo de Valores V2.csproj", "{3CE793EB-F641-4047-96A7-84F201575D4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Verificação de idade V2", "5.Verificação de idade V2\5.Verificação de idade V2.csproj", "{AAF005E3-CC9A-4CB5-82BD-ABD4DD088242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5.Verificação de idade V2", "5.Verificação de idade V2\5.Verificação de idade V2.csproj", "{AAF005E3-CC9A-4CB5-82BD-ABD4DD088242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Classificação de Notas V2", "6.Classificação de Notas V2\6.Classificação de Notas V2.csproj", "{480125CC-2DF1-4E78-9B30-63A26B027140}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6.Classificação de Notas V2", "6.Classificação de Notas V2\6.Classificação de Notas V2.csproj", "{480125CC-2DF1-4E78-9B30-63A26B027140}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.Dia da Semana (usando switch-case)", "9.Dia da Semana (usando switch-case)\9.Dia da Semana (usando switch-case).csproj", "{82795ECA-3312-4575-A72D-355ED0636AF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{480125CC-2DF1-4E78-9B30-63A26B027140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{480125CC-2DF1-4E78-9B30-63A26B027140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{480125CC-2DF1-4E78-9B30-63A26B027140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82795ECA-3312-4575-A72D-355ED0636AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82795ECA-3312-4575-A72D-355ED0636AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82795ECA-3312-4575-A72D-355ED0636AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82795ECA-3312-4575-A72D-355ED0636AF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
