@@ -27,9 +27,9 @@ while (true)
 
 if (nota >= 6)
 {
-    Console.WriteLine("Aluno aprovado.");
+    Console.WriteLine($"Aluno aprovado com nota {nota}.");
 }
 else
 {
-    Console.WriteLine("Aluno reprovado.");
+    Console.WriteLine($"Aluno reprovado com nota {nota}.");
 }

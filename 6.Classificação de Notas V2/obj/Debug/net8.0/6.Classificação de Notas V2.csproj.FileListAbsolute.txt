@@ -1,0 +1,15 @@
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\bin\Debug\net8.0\6.Classificação de Notas V2.exe
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\bin\Debug\net8.0\6.Classificação de Notas V2.deps.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\bin\Debug\net8.0\6.Classificação de Notas V2.runtimeconfig.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\bin\Debug\net8.0\6.Classificação de Notas V2.dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\bin\Debug\net8.0\6.Classificação de Notas V2.pdb
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.AssemblyInfoInputs.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.AssemblyInfo.cs
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.csproj.CoreCompileInputs.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.sourcelink.json
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\refint\6.Classificação de Notas V2.dll
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.pdb
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\6.Classificação de Notas V2.genruntimeconfig.cache
+C:\Users\jose.ehmendes\source\repos\atividade_condicionais_solucao\6.Classificação de Notas V2\obj\Debug\net8.0\ref\6.Classificação de Notas V2.dll

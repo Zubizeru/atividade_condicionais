@@ -23,13 +23,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Cálculo do Desconto", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Verificação de Paridade", "1.Verificação de Paridade\1.Verificação de Paridade.csproj", "{3E430507-46FB-4217-895C-5D7887AFB698}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Verificação de Paridade V2", "1.Verificação de Paridade V2\1.Verificação de Paridade V2.csproj", "{EC5AE042-8F4F-406F-981D-F00C0F918767}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.Verificação de Paridade V2", "1.Verificação de Paridade V2\1.Verificação de Paridade V2.csproj", "{EC5AE042-8F4F-406F-981D-F00C0F918767}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Cálculo do Desconto V2", "10.Cálculo do Desconto V2\10.Cálculo do Desconto V2.csproj", "{28F0866A-2398-479B-9381-0A4582C5D973}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Cálculo do Desconto V2", "10.Cálculo do Desconto V2\10.Cálculo do Desconto V2.csproj", "{28F0866A-2398-479B-9381-0A4582C5D973}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.Número Positivo ou Negativo V2", "2.Número Positivo ou Negativo V2\2.Número Positivo ou Negativo V2.csproj", "{92F7FA5D-4DBF-4312-A5BE-3F41FD4FE240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Número Positivo ou Negativo V2", "2.Número Positivo ou Negativo V2\2.Número Positivo ou Negativo V2.csproj", "{92F7FA5D-4DBF-4312-A5BE-3F41FD4FE240}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.Aprovação de Aluno V2", "3.Aprovação de Aluno V2\3.Aprovação de Aluno V2.csproj", "{C4A5F858-134A-49E6-A97F-C641332B31A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3.Aprovação de Aluno V2", "3.Aprovação de Aluno V2\3.Aprovação de Aluno V2.csproj", "{C4A5F858-134A-49E6-A97F-C641332B31A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.Intervalo de Valores V2", "4.Intervalo de Valores V2\4.Intervalo de Valores V2.csproj", "{3CE793EB-F641-4047-96A7-84F201575D4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Verificação de idade V2", "5.Verificação de idade V2\5.Verificação de idade V2.csproj", "{AAF005E3-CC9A-4CB5-82BD-ABD4DD088242}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.Classificação de Notas V2", "6.Classificação de Notas V2\6.Classificação de Notas V2.csproj", "{480125CC-2DF1-4E78-9B30-63A26B027140}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,6 +99,18 @@ Global
 		{C4A5F858-134A-49E6-A97F-C641332B31A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4A5F858-134A-49E6-A97F-C641332B31A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4A5F858-134A-49E6-A97F-C641332B31A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE793EB-F641-4047-96A7-84F201575D4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE793EB-F641-4047-96A7-84F201575D4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE793EB-F641-4047-96A7-84F201575D4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE793EB-F641-4047-96A7-84F201575D4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAF005E3-CC9A-4CB5-82BD-ABD4DD088242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAF005E3-CC9A-4CB5-82BD-ABD4DD088242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAF005E3-CC9A-4CB5-82BD-ABD4DD088242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAF005E3-CC9A-4CB5-82BD-ABD4DD088242}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480125CC-2DF1-4E78-9B30-63A26B027140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480125CC-2DF1-4E78-9B30-63A26B027140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480125CC-2DF1-4E78-9B30-63A26B027140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480125CC-2DF1-4E78-9B30-63A26B027140}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
