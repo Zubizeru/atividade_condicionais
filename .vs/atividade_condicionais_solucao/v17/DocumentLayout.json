@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC51E581-BE1A-4DAC-8E21-EEF77DC4DB1B}|8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2\\8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2.csproj|c:\\users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\8.verifica\u00E7\u00E3o de vota\u00E7\u00E3o v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC51E581-BE1A-4DAC-8E21-EEF77DC4DB1B}|8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2\\8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2.csproj|solutionrelative:8.verifica\u00E7\u00E3o de vota\u00E7\u00E3o v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2\\Program.cs",
+              "RelativeDocumentMoniker": "8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2\\Program.cs",
+              "ToolTip": "C:\\Users\\jose.ehmendes\\source\\repos\\atividade_condicionais_solucao\\8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2\\Program.cs",
+              "RelativeToolTip": "8.Verifica\u00E7\u00E3o de Vota\u00E7\u00E3o V2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T19:35:34.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
